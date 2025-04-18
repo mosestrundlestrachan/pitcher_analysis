@@ -17,5 +17,3 @@ While incomplete, this project currently works as a dashboard that visualizes th
 - Advanced pitch metrics (e.g., whiff rate, xwOBA, chase rate)
 
 The dashboard is wildly unpolished and implemented using Python, Pandas, Seaborn, and Matplotlib.
-
-\includegraphics[]{pitching_dashboard.pdf}
