@@ -19,6 +19,5 @@ While incomplete, this project currently works as a dashboard that visualizes th
 
 The dashboard is wildly unpolished and implemented using Python, Pandas, Seaborn, and Matplotlib.
 
-
-
+[pitching_dashboard.pdf](https://github.com/user-attachments/files/19815895/pitching_dashboard.pdf)
 
